@@ -23,3 +23,5 @@
 
 - git status: comando que informa qual branch está usando e qual o estado atual da sua branch
 - git branch <NOME_BRANCH>: esse comando serve para criar uma ramificação do código principal
+- git checkout <NOME_BRANCH>: esse comando serve para mudarmos de branch
+- git pull: verifica se a branch que eu estou posicionado está atualizada referente ao repositório remoto
