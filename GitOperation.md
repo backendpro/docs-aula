@@ -21,4 +21,5 @@
 
 ## Comandos Git
 
+- git status: comando que informa qual branch está usando e qual o estado atual da sua branch
 - git branch <NOME_BRANCH>: esse comando serve para criar uma ramificação do código principal
